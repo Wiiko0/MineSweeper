@@ -1,0 +1,13 @@
+# Local scoreboard data
+.minesweeper/
+
+# Compiled and build output
+out/
+target/
+
+# IDE metadata
+.idea/
+*.iml
+.classpath
+.project
+.settings/
